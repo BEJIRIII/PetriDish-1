@@ -12,6 +12,7 @@
 /Binaries/
 /Intermediate/
 /Saved/
+/Content/StarterContent/
 
 # VS/VSCode specific
 .vscode/
@@ -53,3 +54,9 @@ DerivedDataCache/
 
 # Windows Thumbs.db
 Thumbs.db
+/*Content/StarterContent
+/Content/StarterContent
+Content/StarterContent/Architecture/Wall_500x500.uasset
+/Content/StarterContent
+/Content/StarterContent
+/Content/StarterContent
